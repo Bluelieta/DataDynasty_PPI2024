@@ -1,4 +1,4 @@
-# ADatos2024_ProyectoFinal_Data-dinasty-
+# Práctica_Profesional_Data-dinasty-
 [![gui-hologram-futuristic-glowing-scifi-interface-with-digital-human-heart-charts-cinematic-849134-142.png](https://i.postimg.cc/hPXcChp9/gui-hologram-futuristic-glowing-scifi-interface-with-digital-human-heart-charts-cinematic-849134-142.png)](https://postimg.cc/56Why9c0)
 
 Proyecto para el módulo Analista de datos de la carrera técnica superior en Ciencia de Datos e Inteligencia Artificial. Instituto Superior Politécnico de Córdoba.
