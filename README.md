@@ -1,5 +1,5 @@
-# Práctica_Profesional_Data-dinasty-
-[![gui-hologram-futuristic-glowing-scifi-interface-with-digital-human-heart-charts-cinematic-849134-142.png](https://i.postimg.cc/hPXcChp9/gui-hologram-futuristic-glowing-scifi-interface-with-digital-human-heart-charts-cinematic-849134-142.png)](https://postimg.cc/56Why9c0)
+# Práctica_Profesional_DataDynasty-
+[![38e7e5e2-fe3b-49fd-a7d8-c0cfa8a4fc64.png](https://i.postimg.cc/3wjzn0VJ/38e7e5e2-fe3b-49fd-a7d8-c0cfa8a4fc64.png)](https://postimg.cc/PLx6qJdB)
 
 Proyecto para el módulo Analista de datos de la carrera técnica superior en Ciencia de Datos e Inteligencia Artificial. Instituto Superior Politécnico de Córdoba.
 
